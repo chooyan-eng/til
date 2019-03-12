@@ -1,7 +1,7 @@
 # Chooyan's TIL
 
 This repository is my TIL(Today I Learned).
-Watching this repo would tell what language, framework, technology or topic @chooyan-eng is interested in.
+Watching this repo would tell what language, framework, technology or topic [@chooyan-eng](https://github.com/chooyan-eng) is interested in.
 
 # Comments to this repo
 
